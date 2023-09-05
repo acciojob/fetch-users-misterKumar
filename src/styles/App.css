@@ -23,8 +23,8 @@
   }
   
   .user-table {
-    border-collapse: collapse;
     width: 100%;
+    border-collapse: collapse;
     border: 1px solid #2196F3; /* Add a border with your desired color */
   }
   
@@ -45,4 +45,6 @@
     background-color:  #2196F3;
     border-radius: 4px;
   }
-  
+  .no-data {
+    text-align: center;
+  }
