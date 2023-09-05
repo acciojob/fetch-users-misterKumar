@@ -1,11 +1,11 @@
 
 import React from "react";
 import './../styles/App.css';
-
+import UserTable from "./UserTable";
 const App = () => {
   return (
     <div>
-        {/* Do not remove the main div */}
+        <UserTable />
     </div>
   )
 }
